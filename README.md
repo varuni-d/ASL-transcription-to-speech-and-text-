@@ -1,6 +1,6 @@
 # ASL-transcription-to-speech-and-text
 
-In this project, the WLASL dataset was utilized [1]. This dataset is the largest dataset publicly available containing over 2,000 commonly used ASL words. Upon downloading the dataset, it was categorized into separate folders by label. 
+In this project, the WLASL dataset was utilized to convert American Sign Language (ASL) to text and speech in realtime[1]. This dataset is the largest dataset publicly available containing over 2,000 commonly used ASL words. Upon downloading the dataset, it was categorized into separate folders by label prior to training the model. 
 
 Subsequently, Mediapipe was used for further preprocessing [2]. The detailed steps are as follows:
 
